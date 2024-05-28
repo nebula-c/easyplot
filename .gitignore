@@ -1,0 +1,3 @@
+*.json
+!ex.json
+.DS_Store
